@@ -33,4 +33,4 @@ SpatioTemporal Open Research Manager - Environment
 About
 =====
 
-Storm platform computing environment management service.
+Storm Platform computing environment management service.
